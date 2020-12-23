@@ -76,7 +76,7 @@ const winningConditions = [
 
 //start check the result for the game//
 function Result() {
-    // console.log("h")
+   
     let roundWon = false;
     let round = 0 ; 
   
