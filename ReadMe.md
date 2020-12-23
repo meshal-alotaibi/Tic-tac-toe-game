@@ -58,4 +58,4 @@ Draw :
 
 i create object for win conditions for every move will make player win the game .
 i start be doing for loop inside the win condition and Compared to gamestatus to check .
->>>>>>> 568573e9e1d75ad178eb874e056e574a43deb20c
+
