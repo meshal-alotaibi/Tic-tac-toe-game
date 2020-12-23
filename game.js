@@ -87,7 +87,7 @@ function Result() {
         let cellIndex1 = gameState[winCondition[0]];
         let cellIndex2 = gameState[winCondition[1]];
         let cellIndex3 = gameState[winCondition[2]];
-console.log(gameState)
+
     
 //here check if there is cell empty"
          if (cellIndex1 === "" || cellIndex2 === "" || cellIndex3 === "") {
