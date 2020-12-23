@@ -24,9 +24,8 @@ function cellIndex(event){
     const currentCell = event.target;
 
 
-    const clickedCellIndex = parseInt(
-        currentCell.getAttribute('zoom')
-      );
+    const clickedCellIndex =  currentCell.getAttribute('zoom')
+      ;
 
     
  
@@ -88,7 +87,7 @@ function Result() {
         let cellIndex1 = gameState[winCondition[0]];
         let cellIndex2 = gameState[winCondition[1]];
         let cellIndex3 = gameState[winCondition[2]];
-
+console.log(gameState)
     
 //here check if there is cell empty"
          if (cellIndex1 === "" || cellIndex2 === "" || cellIndex3 === "") {
@@ -134,4 +133,7 @@ function changePlayer () {
     window.location.reload();
 } 
 
+$(document).on("click", "#reset-button", function() {
+    restoreDefault();
+});
 
