@@ -133,7 +133,3 @@ function changePlayer () {
     window.location.reload();
 } 
 
-$(document).on("click", "#reset-button", function() {
-    restoreDefault();
-});
-
