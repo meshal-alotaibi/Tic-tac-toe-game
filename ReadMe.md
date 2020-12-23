@@ -4,4 +4,15 @@
 ![Tic tac toe](https://media.git.generalassemb.ly/user/33234/files/48c9cf00-4569-11eb-864a-68593c4c965d)
 
 ##### Tic-tac-toe is game for two players, X and O, who take turns marking the spaces in a 3 × 3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.  
-=======
+
+## Play Here Link 
+
+
+## Features 
+
+- [x] show every player's turn
+- [x] show who's the winner 
+- [x] Restart The Game
+- [ ] show the round and count the winner
+- [ ] timer 
+- [ ] the User can Select "X" or "O"
