@@ -53,3 +53,8 @@ Draw :
 - [ ] show the round and count the winner
 - [ ] timer 
 - [ ] the User can Select "X" or "O"
+
+## Describe how you solved for the winner :
+
+i create object for win conditions for every move will make player win the game .
+i start be doing for loop inside the win condition and Compared to gamestatus to check .
