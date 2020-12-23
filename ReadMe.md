@@ -28,8 +28,19 @@
 
 ## Tic tac toe
 
-Home Page
+Home Page : 
 ![Tic tac toe](https://media.git.generalassemb.ly/user/33234/files/48c9cf00-4569-11eb-864a-68593c4c965d)
+
+user Win The Game : 
+
+
+![Screen Shot 2020-12-24 at 12 18 23 AM](https://media.git.generalassemb.ly/user/33234/files/ad8f2480-457d-11eb-8580-7bffa3f9046c)
+
+Draw : 
+
+
+![Screen Shot 2020-12-24 at 12 19 54 AM](https://media.git.generalassemb.ly/user/33234/files/c7306c00-457d-11eb-8b3d-b791942324c9)
+
 
 
 ## Features 
