@@ -1,12 +1,6 @@
 # Project-Tic-tac-toe
 
 
-<<<<<<< HEAD
-![](Tic tac toe.png)
-
-# go
-=======
-
 
 ##### Tic-tac-toe is game for two players, X and O, who take turns marking the spaces in a 3 × 3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.  
 
@@ -41,7 +35,8 @@ Home Page :
 user Win The Game : 
 
 
-![Screen Shot 2020-12-24 at 12 18 23 AM](https://media.git.generalassemb.ly/user/33234/files/ad8f2480-457d-11eb-8580-7bffa3f9046c)
+![Screen Shot 2020-12-24 at 12 38 31 AM](https://media.git.generalassemb.ly/user/33234/files/6e160780-4580-11eb-9dc5-b8d8a2d1460b)
+
 
 Draw : 
 

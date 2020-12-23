@@ -106,7 +106,7 @@ function Result() {
 // if you win 
              if (roundWon) { 
 
-                Display.innerHTML = `You Win ${PlayerOne} congras, Round ${round}`  ;
+                Display.innerHTML = `You Win ${PlayerOne} congrats, Round ${round}`  ;
                    gameActive = false;
                     return ;
     
